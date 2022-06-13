@@ -2,6 +2,6 @@
 
 module.exports = {
     hello: () => {
-        return "🚀 ✅ 🤷‍♂️ SNAP here";
+        return "🚀 ✅ 🤷‍♂️ 🤷‍♂️ SNAP here";
     }
 };
