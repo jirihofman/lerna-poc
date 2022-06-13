@@ -24,8 +24,8 @@ Logged in as jirihofman to scope @jirihofman on https://npm.pkg.github.com/.
 Publishing command
 ```sh
 # lerna publish patch --conventional-commits --registry=https://npm.pkg.github.com --scope=@jirihofman
-npm adduser --registry=https://npm.pkg.github.com/:_authToken=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
+npm adduser --registry=https://npm.pkg.github.com/:_authToken=<TOKEN>
 # The above is ok for `npm publish`. Not for `lerna publish`.
 
-lerna publish patch --conventional-commits --registry=https://npm.pkg.github.com
+lerna publish patch --conventional-commits
 ```
