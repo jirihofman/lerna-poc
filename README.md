@@ -149,6 +149,7 @@ found 0 vulnerabilities
 
 Then run the app. See the new modules are now working properly.
 ```sh
+cd app
 node index.js  
 Starting App
 Model:  MODEL here
