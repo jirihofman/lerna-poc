@@ -184,3 +184,19 @@ lerna success version finished
 
 ### single package fix
 Let's say we want to deploy our app with only snap module changed.
+```
+lerna version patch --no-push
+info cli using local version of lerna
+lerna notice cli v5.1.1
+lerna info current version 0.0.1
+lerna info Assuming all packages changed
+
+Changes:
+ - @jirihofman/model: 0.0.1 => 0.0.2
+ - @jirihofman/snap: 0.0.1 => 0.0.2
+
+? Are you sure you want to create these versions? Yes
+lerna info execute Skipping git push
+lerna info execute Skipping releases
+lerna success version finished
+```
