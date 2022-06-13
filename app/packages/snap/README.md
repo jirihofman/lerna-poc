@@ -29,3 +29,4 @@ npm adduser --registry=https://npm.pkg.github.com/:_authToken=<TOKEN>
 
 lerna publish patch --conventional-commits
 ```
+Important note: never commit your Personal Access Token into codebase. The token gets deleted.
