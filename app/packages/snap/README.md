@@ -24,7 +24,7 @@ Logged in as jirihofman to scope @jirihofman on https://npm.pkg.github.com/.
 Publishing command
 ```sh
 # lerna publish patch --conventional-commits --registry=https://npm.pkg.github.com --scope=@jirihofman
-npm adduser --registry=https://npm.pkg.github.com/:_authToken=<TOKEN>
+npm adduser --registry=https://npm.pkg.github.com/:_authToken=<GH_TOKEN>
 # The above is ok for `npm publish`. Not for `lerna publish`.
 
 lerna publish patch --conventional-commits
@@ -37,7 +37,7 @@ Important note: never commit your Personal Access Token into codebase. The token
 - publish `snap` package
 
 ```sh
-lerna version patch --conventional-commits --create-release github                               
+$ lerna version patch --conventional-commits --create-release github --yes
 info cli using local version of lerna
 lerna notice cli v5.1.1
 lerna info current version 22.3.124
@@ -53,7 +53,7 @@ lerna info git Pushing tags...
 lerna success version finished
 
 
-lerna publish from-package
+$ lerna publish from-package --yes
 info cli using local version of lerna
 lerna notice cli v5.1.1
 
