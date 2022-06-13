@@ -2,6 +2,8 @@
 
 Support package for other "main" packages.
 
+This package connects to the database.
+
 ## Usage
 
 ```
