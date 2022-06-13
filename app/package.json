@@ -1,0 +1,8 @@
+{
+  "name": "our-monolithic-app",
+  "private": false,
+  "devDependencies": {
+    "lerna": "^5.1.1"
+  },
+  "version": "22.2.100"
+}
