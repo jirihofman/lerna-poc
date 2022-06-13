@@ -73,3 +73,4 @@ lerna notice
 Successfully published:
  - @jirihofman/snap@22.3.119
  ```
+Although this example does not create a GitHub Release

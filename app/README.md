@@ -9,3 +9,13 @@ Model:  MODEL here
 SNAP:  SNAP here
 App run completed
 ```
+
+## With monorepo
+We want to be able to:
+- commit all changes
+- publish `snap` package as a module with correct version
+- create a GitHub release
+
+```sh
+lerna publish patch --conventional-commits --create-release github
+```
