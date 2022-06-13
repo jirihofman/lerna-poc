@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [22.3.113](https://github.com/jirihofman/lerna-poc/compare/v22.3.112...v22.3.113) (2022-06-13)
+
+
+### Bug Fixes
+
+* **model:** Model cannot be private, otherwise it fails with: Make sure you're authenticated properly ¯\_(ツ)_/¯ ([d0d7a03](https://github.com/jirihofman/lerna-poc/commit/d0d7a032cc676bcd86d0a8157a970943c393875d))
+
+
+
+
+
 ## [22.3.102](https://github.com/jirihofman/lerna-poc/compare/v22.3.101...v22.3.102) (2022-06-13)
 
 

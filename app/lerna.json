@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "22.3.112",
+  "version": "22.3.113",
   "command": {
     "publish": {
       "registry": "https://npm.pkg.github.com"
