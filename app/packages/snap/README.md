@@ -11,4 +11,4 @@ console.log(snap.hello());
 ```
 
 ## npm package
-This should be available for downloading.
+This should be available for downloading. Need to use registry and `GH_TOKEN`.
