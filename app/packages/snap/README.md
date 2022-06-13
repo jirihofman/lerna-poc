@@ -1,6 +1,6 @@
 # `snap`
 
-> TODO: description
+> Currently only API for snap. The UI will be done in next major update.
 
 ## Usage
 
