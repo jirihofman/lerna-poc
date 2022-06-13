@@ -11,4 +11,4 @@ console.log(snap.hello());
 ```
 
 ## npm package
-This shoulb be available for donwloading.
+This should be available for downloading.
