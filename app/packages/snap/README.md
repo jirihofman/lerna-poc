@@ -29,9 +29,9 @@ npm adduser --registry=https://npm.pkg.github.com/:_authToken=<TOKEN>
 
 lerna publish patch --conventional-commits
 ```
-Important note: never commit your Personal Access Token into codebase. The token gets deleted.
+Important note: never commit your Personal Access Token into codebase. The token gets deleted. If this happen, GitHub will send you an email with this subject: `[GitHub] GitHub access token found in commit`.
 
-Example
+**Example**
 ```sh
 lerna publish patch --conventional-commits
 info cli using local version of lerna
