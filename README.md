@@ -181,3 +181,6 @@ lerna info execute Skipping git push
 lerna info execute Skipping releases
 lerna success version finished
 ```
+
+### single package fix
+Let's say we want to deploy our app with only snap module changed.
