@@ -4,6 +4,7 @@
   "description": "> TODO: description?",
   "author": "Jiří Hofman <jiri.hofman@gmail.com>",
   "license": "ISC",
+  "private": false,
   "main": "lib/snap.js",
   "directories": {
     "lib": "lib",
