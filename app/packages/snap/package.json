@@ -19,5 +19,12 @@
   "dependencies": {
     "@jirihofman/model": "^22.3.102"
   },
-  "gitHead": "1475654657371e2c12df371eb7ded3023f054076"
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:jirihofman/lerna-poc.git",
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/@jirihofman"
+    },
+    "directory": "packages/snap"
+  }
 }
