@@ -1,7 +1,8 @@
 'use strict';
 
+version = require('../package.json').version
 module.exports = {
     hello: () => {
-        return "🚀 ✅ 🤷‍♂️ 🤷‍♂️ SNAP here. Version: 0️⃣.1️⃣.✌️";
+        return "SNAP here. Version: " + version;
     }
 };
