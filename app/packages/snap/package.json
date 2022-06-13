@@ -1,6 +1,6 @@
 {
   "name": "@jirihofman/snap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "Jiří Hofman <jiri.hofman@gmail.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@jirihofman/model": "^0.0.2"
+    "@jirihofman/model": "^0.0.3"
   }
 }
