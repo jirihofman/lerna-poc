@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [22.3.102](https://github.com/jirihofman/lerna-poc/compare/v22.3.101...v22.3.102) (2022-06-13)
+
+
+### Bug Fixes
+
+* Remove lerna debug log from repo ([c5344b1](https://github.com/jirihofman/lerna-poc/commit/c5344b1439a829dbb20df505145c7c3dbe27bd2f))
+
+
+### Features
+
+* **model:** Model is a private package ([01c89d4](https://github.com/jirihofman/lerna-poc/commit/01c89d450ab882c721aafebbdea8a53b0d709ab6))
+
+
+
+
+
 ## [22.3.101](https://github.com/jirihofman/lerna-poc/compare/v22.2.105...v22.3.101) (2022-06-13)
 
 
