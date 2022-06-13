@@ -20,3 +20,9 @@ Password:
 Email: (this IS public) jiri.hofman@gmail.com
 Logged in as jirihofman to scope @jirihofman on https://npm.pkg.github.com/.
 ```
+
+Publishing command
+```sh
+# lerna publish patch --conventional-commits --registry=https://npm.pkg.github.com --scope=@jirihofman
+lerna publish patch --conventional-commits --registry=https://npm.pkg.github.com
+```
