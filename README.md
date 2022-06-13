@@ -200,3 +200,6 @@ lerna info execute Skipping releases
 lerna info git Pushing tags...
 lerna success version finished
 ```
+
+## Create a GitHub release
+Use `--create-release github`
