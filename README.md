@@ -160,3 +160,24 @@ SNAP:  🚀 SNAP here
 --- monorepo end -----
 App run completed
 ```
+
+### Update package version
+```sh
+lerna version patch --no-git-tag-version
+info cli using local version of lerna
+lerna notice cli v5.1.1
+lerna info current version 0.0.0
+lerna notice FYI git repository validation has been skipped, please ensure your version bumps are correct
+lerna info Assuming all packages changed
+lerna WARN version Skipping working tree validation, proceed at your own risk
+
+Changes:
+ - @jirihofman/model: 0.0.0 => 0.0.1
+ - @jirihofman/snap: 0.0.0 => 0.0.1
+
+? Are you sure you want to create these versions? Yes
+lerna info execute Skipping git tag/commit
+lerna info execute Skipping git push
+lerna info execute Skipping releases
+lerna success version finished
+```
