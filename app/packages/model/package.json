@@ -21,6 +21,6 @@
     "directory": "packages/model"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@jirihofman"
+    "registry": "https://npm.pkg.github.comQQ/@jirihofman"
   }
 }

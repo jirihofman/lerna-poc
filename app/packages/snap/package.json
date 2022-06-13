@@ -24,6 +24,6 @@
     "directory": "packages/snap"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@jirihofman"
+    "registry": "https://npm.pkg.github.comRR/@jirihofman"
   }
 }
