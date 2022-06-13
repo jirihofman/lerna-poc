@@ -9,3 +9,6 @@ const snap = require('snap');
 
 console.log(snap.hello());
 ```
+
+## npm package
+This shoulb be available for donwloading.
