@@ -74,3 +74,9 @@ Successfully published:
  - @jirihofman/snap@22.3.119
  ```
 Although this example does not create a GitHub Release
+
+
+```
+# Does create a release, but does not update the package in GitHub
+lerna publish patch --conventional-commits --create-release github
+```
