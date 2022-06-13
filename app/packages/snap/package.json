@@ -1,6 +1,6 @@
 {
   "name": "@jirihofman/snap",
-  "version": "22.3.114",
+  "version": "22.3.115",
   "description": "> TODO: description?",
   "author": "Jiří Hofman <jiri.hofman@gmail.com>",
   "license": "ISC",
@@ -16,7 +16,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@jirihofman/model": "^22.3.114"
+    "@jirihofman/model": "^22.3.115"
   },
   "repository": {
     "type": "git",

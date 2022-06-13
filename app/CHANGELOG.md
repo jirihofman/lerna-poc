@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [22.3.115](https://github.com/jirihofman/lerna-poc/compare/v22.3.114...v22.3.115) (2022-06-13)
+
+
+### Bug Fixes
+
+* update ([7851c97](https://github.com/jirihofman/lerna-poc/commit/7851c9799d23079042ab53068f649cd0b4ae7e27))
+
+
+
+
+
 ## [22.3.114](https://github.com/jirihofman/lerna-poc/compare/v22.3.113...v22.3.114) (2022-06-13)
 
 
