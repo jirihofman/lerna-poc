@@ -1,8 +1,9 @@
 'use strict';
 
-const version = require('../package.json').version;
+const json = require('../package.json');
 module.exports = {
     hello: () => {
-        return "SNAP here. Version: " + version;
-    }
+        return "SNAP here. Version: " + json.version;
+    },
+    version: json.version
 };
