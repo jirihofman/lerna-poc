@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [22.3.120](https://github.com/jirihofman/lerna-poc/compare/v22.3.119...v22.3.120) (2022-06-13)
+
+
+### Features
+
+* **model:** dont want model public. but maybe necessary for snap model ([faed1b3](https://github.com/jirihofman/lerna-poc/commit/faed1b37cb3ddffe08378b5cc49d87a90f180ceb))
+
+
+
+
+
 ## [22.3.117](https://github.com/jirihofman/lerna-poc/compare/v22.3.116...v22.3.117) (2022-06-13)
 
 
