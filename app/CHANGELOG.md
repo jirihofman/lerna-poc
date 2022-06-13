@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [22.3.108](https://github.com/jirihofman/lerna-poc/compare/v22.3.107...v22.3.108) (2022-06-13)
+
+
+### Features
+
+* **snap:** publisuh update? ([2bf708b](https://github.com/jirihofman/lerna-poc/commit/2bf708b67b98807d45f58e39b40ec803e942496f))
+
+
+
+
+
 ## [22.3.107](https://github.com/jirihofman/lerna-poc/compare/v22.3.106...v22.3.107) (2022-06-13)
 
 **Note:** Version bump only for package our-monolithic-app
