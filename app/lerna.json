@@ -4,6 +4,9 @@
   ],
   "version": "22.3.107",
   "command": {
+    "pubblish": {
+      "registry": "https://npm.pkg.github.com"
+    },
     "version": {
       "message": "chore(release): publish %s"
     }
