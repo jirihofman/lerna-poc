@@ -1,6 +1,6 @@
 # `model`
 
-> TODO: description
+Support package for other "main" packages.
 
 ## Usage
 
