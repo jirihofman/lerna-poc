@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const model = require('model');
+const model = require('@jirihofman/model');
 
-// TODO: DEMONSTRATE API
+console.log(model.hello());
 ```

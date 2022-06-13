@@ -7,5 +7,5 @@
 ```
 const snap = require('snap');
 
-// TODO: DEMONSTRATE API
+console.log(snap.hello());
 ```

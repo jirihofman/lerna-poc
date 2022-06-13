@@ -183,20 +183,20 @@ lerna success version finished
 ```
 
 ### single package fix
-Let's say we want to deploy our app with only snap module changed.
+Let's say we want to deploy our app with only snap module changed. Important precondition - all the packages [must be](https://github.com/lerna/lerna/issues/2385) 0.1.+. Otherwise they will ALWAYS be included for a change.
 ```
-lerna version patch --no-push
+lerna version
 info cli using local version of lerna
 lerna notice cli v5.1.1
-lerna info current version 0.0.1
-lerna info Assuming all packages changed
+lerna info current version 0.1.0
+lerna info Looking for changed packages since v0.1.0
+? Select a new version (currently 0.1.0) Patch (0.1.1)
 
 Changes:
- - @jirihofman/model: 0.0.1 => 0.0.2
- - @jirihofman/snap: 0.0.1 => 0.0.2
+ - @jirihofman/snap: 0.1.0 => 0.1.1
 
 ? Are you sure you want to create these versions? Yes
-lerna info execute Skipping git push
 lerna info execute Skipping releases
+lerna info git Pushing tags...
 lerna success version finished
 ```
