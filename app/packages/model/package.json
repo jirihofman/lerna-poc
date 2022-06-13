@@ -3,7 +3,7 @@
   "version": "22.3.102",
   "description": "used in many packages. Private so that it is not published in @jirihofman as a package",
   "author": "Jiří Hofman <jiri.hofman@gmail.com>",
-  "private": true,
+  "private": false,
   "license": "ISC",
   "main": "lib/model.js",
   "directories": {

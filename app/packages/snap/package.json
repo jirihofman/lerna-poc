@@ -26,5 +26,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@jirihofman"
-  }
+  },
+  "gitHead": "5a55d4188011edadc2fa52be2aa7a74f797b3c5a"
 }
