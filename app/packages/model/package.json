@@ -3,7 +3,6 @@
   "version": "22.3.113",
   "description": "used in many packages. Private so that it is not published in @jirihofman as a package",
   "author": "Jiří Hofman <jiri.hofman@gmail.com>",
-  "private": false,
   "license": "ISC",
   "main": "lib/model.js",
   "directories": {
@@ -15,5 +14,13 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:jirihofman/lerna-poc.git",
+    "directory": "packages/model"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jirihofman"
   }
 }
