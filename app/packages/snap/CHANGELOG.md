@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [22.3.119](https://github.com/jirihofman/lerna-poc/compare/v22.3.118...v22.3.119) (2022-06-13)
+
+
+### Bug Fixes
+
+* **snap:** variable for publishing ([616bb63](https://github.com/jirihofman/lerna-poc/commit/616bb63c61617ddb8f8a2dbe356ec4cd5578a589))
+
+
+
+
+
 ## [22.3.118](https://github.com/jirihofman/lerna-poc/compare/v22.3.117...v22.3.118) (2022-06-13)
 
 **Note:** Version bump only for package @jirihofman/snap
