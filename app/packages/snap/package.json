@@ -22,9 +22,9 @@
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com:jirihofman/lerna-poc.git",
-    "publishConfig": {
-      "registry": "https://npm.pkg.github.com/@jirihofman"
-    },
     "directory": "packages/snap"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jirihofman"
   }
 }
