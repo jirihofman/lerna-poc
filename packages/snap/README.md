@@ -88,3 +88,10 @@ lerna notice
 Successfully published:
  - @jirihofman/snap@22.3.125
 ```
+
+# np
+Using np gui tool. Can do releases. Changelog from all commits.
+
+Steps:
+- `git push --set-upstream origin master`
+- `np minor --no-tests --branch master`
