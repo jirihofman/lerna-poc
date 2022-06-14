@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [22.3.128](https://github.com/jirihofman/lerna-poc/compare/v22.3.127...v22.3.128) (2022-06-14)
+
+**Note:** Version bump only for package @jirihofman/model
+
+
+
+
+
 ## [22.3.120](https://github.com/jirihofman/lerna-poc/compare/v22.3.119...v22.3.120) (2022-06-13)
 
 
