@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@jirihofman/model": "^22.3.128"
+    "@jirihofman/model": "file:../snap"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "directory": "packages/snap"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com/"
   }
 }
