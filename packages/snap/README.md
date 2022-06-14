@@ -95,3 +95,32 @@ Using np gui tool. Can do releases. Changelog from all commits.
 Steps:
 - `git push --set-upstream origin master`
 - `np minor --no-tests --branch master`
+Result
+```sh
+jirihofman@Jiri-MacBook-Pro snap % np patch --no-tests --branch master
+
+Publish a new version of @jirihofman/snap (current: 22.4.0)
+
+Commits:
+- np update  81c7e6c
+- np registr config, not needed for lerna  74df373
+- fix/snap: comman publish registry can be invalid but needs to be there!  0e4e909
+
+Commit Range:
+v22.3.129...master
+
+Registry:
+https://npm.pkg.github.com/
+
+
+  ✔ Prerequisite check
+  ✔ Git
+  ✔ Installing dependencies using npm
+  ✔ Bumping version using npm
+  ✔ Publishing package using npm
+  ✔ Pushing tags
+  ✔ Creating release draft on GitHub
+
+ @jirihofman/snap 22.4.1 published 🎉
+ ```
+Does not push package-json version bump, why?
