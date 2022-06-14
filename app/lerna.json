@@ -4,7 +4,9 @@
   ],
   "version": "22.3.128",
   "command": {
-    "publish": {},
+    "publish": {
+      "registry": "https://npm.pkg.github.comXX"
+    },
     "version": {
       "message": "chore(release): publish %s"
     }
