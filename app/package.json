@@ -2,8 +2,8 @@
   "name": "our-monolithic-app",
   "private": false,
   "dependencies": {
-    "@jirihofman/model": "file:packages/model",
-    "@jirihofman/snap": "file:packages/snap"
+    "@jirihofman/model": "file:../packages/model",
+    "@jirihofman/snap": "file:../packages/snap"
   },
   "devDependencies": {
     "lerna": "^5.1.1"
