@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [22.3.129](https://github.com/jirihofman/lerna-poc/compare/v22.3.128...v22.3.129) (2022-06-14)
+
+
+### Bug Fixes
+
+* **snap:** Trying to fix the registry to avoid 401 when publishing ([58ed704](https://github.com/jirihofman/lerna-poc/commit/58ed7041c1284879d86bedb469e42a89385301ed))
+
+
+
+
+
 ## [22.3.128](https://github.com/jirihofman/lerna-poc/compare/v22.3.127...v22.3.128) (2022-06-14)
 
 
